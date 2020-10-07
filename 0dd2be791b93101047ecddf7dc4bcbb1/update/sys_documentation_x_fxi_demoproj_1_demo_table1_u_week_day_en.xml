@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="u_week_day" label="Week day" language="en" table="x_fxi_demoproj_1_demo_table1">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>u_week_day</element>
+            <help/>
+            <hint/>
+            <label>Week day</label>
+            <language>en</language>
+            <name>x_fxi_demoproj_1_demo_table1</name>
+            <plural>Week days</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-10-07 17:44:36</sys_created_on>
+            <sys_id>c7d6999c64b79010f8778c3a0dbf80bc</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Week day</sys_name>
+            <sys_package display_value="demoproj_1" source="x_fxi_demoproj_1">0dd2be791b93101047ecddf7dc4bcbb1</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="demoproj_1">0dd2be791b93101047ecddf7dc4bcbb1</sys_scope>
+            <sys_update_name>sys_documentation_x_fxi_demoproj_1_demo_table1_u_week_day_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-10-07 17:44:36</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+    <sys_claim action="INSERT_OR_UPDATE">
+        <claim_owner_scope display_value="demoproj_1">0dd2be791b93101047ecddf7dc4bcbb1</claim_owner_scope>
+        <claim_timestamp>175042b4be80000001</claim_timestamp>
+        <metadata_update_name>sys_documentation_x_fxi_demoproj_1_demo_table1_u_week_day_en</metadata_update_name>
+        <previous_claim_app_version>1.0.0</previous_claim_app_version>
+        <previous_claim_name>demoproj_1</previous_claim_name>
+        <previous_claim_scope>0dd2be791b93101047ecddf7dc4bcbb1</previous_claim_scope>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-10-07 17:45:47</sys_created_on>
+        <sys_id>1ee2919855ff1010f877cc54b9c6faaf</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-10-07 17:45:47</sys_updated_on>
+    </sys_claim>
+</record_update>

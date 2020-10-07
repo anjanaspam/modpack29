@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="demo_table1" max_length="40" name="x_fxi_demoproj_1_demo_table1" type="collection">
+        <element choice="1" label="Week day" max_length="40" name="u_week_day" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Friday" value="Friday"/>
+                <element inactive_on_update="false" label="Monday" value="Monday"/>
+                <element inactive_on_update="false" label="Saturday" value="Saturday"/>
+                <element inactive_on_update="false" label="Thursday" value="Thursday"/>
+                <element inactive_on_update="false" label="Tuesday" value="Tuesday"/>
+            </choice>
+        </element>
+    </element>
+</database>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_app_customization">
+    <sys_app_customization action="INSERT_OR_UPDATE">
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-10-07 17:40:46</sys_created_on>
+        <sys_id>c6844f3953531010c973ddeeff7b12b2</sys_id>
+        <sys_mod_count>5</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-10-07 18:03:04</sys_updated_on>
+        <vendor_app display_value="demoproj_1">0dd2be791b93101047ecddf7dc4bcbb1</vendor_app>
+        <vendor_app_version>1.0.0</vendor_app_version>
+        <version>4.0.0</version>
+    </sys_app_customization>
+</record_update>
